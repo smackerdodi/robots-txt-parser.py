@@ -1,0 +1,7 @@
+futures
+requests
+threading
+sys
+time
+re
+colorama
